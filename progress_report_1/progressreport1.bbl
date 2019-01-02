@@ -1,0 +1,161 @@
+\begin{thebibliography}{10}
+
+\bibitem{rencao11}
+W.~Ren and Y.~Cao, {\em Distributed Coordination of Multi-agent Networks},
+  ch.~2.
+\newblock London: Springer, 2011.
+
+\bibitem{glavic06}
+M.~Glavic, ``Agents and multi-agent systems: A short introduction for power
+  engineers,'' tech. rep., University of Liege Electrical Engineering and
+  Computer Science Department, Belgium, 2006.
+
+\bibitem{clement04}
+B.~Clement, ``Multi-agent planning.'' Artificial Intelligence Group, Jet
+  Propulsion Laboratory, California, 2004.
+
+\bibitem{stone00}
+P.~Stone and M.~Veloso, ``Multiagent systems: A survey from a machine learning
+  perspective,'' {\em Autonomous Robotics}, vol.~8, no.~3, p.~345–383, 2000.
+
+\bibitem{tomlin98}
+C.~Tomlin, G.~J. Pappas, and S.~Sastry, ``Conflict resolution for air traffic
+  management: A study in multiagent hybrid systems,'' {\em IEEE Transactions on
+  automatic control}, vol.~43, no.~4, pp.~509--521, 1998.
+
+\bibitem{swaminathan98}
+J.~M. Swaminathan, S.~F. Smith, and N.~M. Sadeh, ``Modeling supply chain
+  dynamics: A multiagent approach,'' {\em Decision sciences}, vol.~29, no.~3,
+  pp.~607--632, 1998.
+
+\bibitem{silver2016mastering}
+D.~Silver, A.~Huang, C.~J. Maddison, A.~Guez, L.~Sifre, G.~Van Den~Driessche,
+  J.~Schrittwieser, I.~Antonoglou, V.~Panneershelvam, M.~Lanctot, {\em et~al.},
+  ``Mastering the game of go with deep neural networks and tree search,'' {\em
+  Nature}, vol.~529, no.~7587, pp.~484--489, 2016.
+
+\bibitem{zhang2016learning}
+M.~Zhang, Z.~McCarthy, C.~Finn, S.~Levine, and P.~Abbeel, ``Learning deep
+  neural network policies with continuous memory states,'' in {\em Robotics and
+  Automation (ICRA), 2016 IEEE International Conference on}, pp.~520--527,
+  IEEE, 2016.
+
+\bibitem{mnih-dqn-2015}
+V.~Mnih, K.~Kavukcuoglu, D.~Silver, A.~A. Rusu, J.~Veness, M.~G. Bellemare,
+  A.~Graves, M.~Riedmiller, A.~K. Fidjeland, G.~Ostrovski, S.~Petersen,
+  C.~Beattie, A.~Sadik, I.~Antonoglou, H.~King, D.~Kumaran, D.~Wierstra,
+  S.~Legg, and D.~Hassabis, ``Human-level control through deep reinforcement
+  learning,'' {\em Nature}, vol.~518, pp.~529--533, 02 2015.
+
+\bibitem{redding2011approximate}
+J.~D. Redding, {\em Approximate multi-agent planning in dynamic and uncertain
+  environments}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 2011.
+
+\bibitem{hausknecht2015deep}
+M.~Hausknecht and P.~Stone, ``Deep recurrent q-learning for partially
+  observable mdps,'' {\em arXiv preprint arXiv:1507.06527}, 2015.
+
+\bibitem{tampuu2017multiagent}
+A.~Tampuu, T.~Matiisen, D.~Kodelja, I.~Kuzovkin, K.~Korjus, J.~Aru, J.~Aru, and
+  R.~Vicente, ``Multiagent cooperation and competition with deep reinforcement
+  learning,'' {\em PloS one}, vol.~12, no.~4, p.~e0172395, 2017.
+
+\bibitem{amato13}
+C.~Amato, G.~Chowdhary, A.~Geramifard, N.~K. Ure, and M.~J. Kochenderfer,
+  ``Decentralized control of partially observable markov decision processes,''
+  in {\em Decision and Control (CDC), 2013 IEEE 52nd Annual Conference on},
+  pp.~2398--2405, IEEE, 2013.
+
+\bibitem{chen2016decentralized}
+Y.~F. Chen, M.~Liu, M.~Everett, and J.~P. How, ``Decentralized
+  non-communicating multiagent collision avoidance with deep reinforcement
+  learning,'' {\em arXiv preprint arXiv:1609.07845}, 2016.
+
+\bibitem{irodova2005reinforcement}
+M.~Irodova and R.~H. Sloan, ``Reinforcement learning and function
+  approximation.,'' in {\em FLAIRS Conference}, pp.~455--460, 2005.
+
+\bibitem{kochenderfer2015decision}
+M.~J. Kochenderfer, {\em Decision making under uncertainty: theory and
+  application}.
+\newblock MIT press, 2015.
+
+\bibitem{puterman2014markov}
+M.~L. Puterman, {\em Markov decision processes: discrete stochastic dynamic
+  programming}.
+\newblock John Wiley \& Sons, 2014.
+
+\bibitem{toksoz2012design}
+T.~Toksoz, ``Design and implementation of an automated battery management
+  platform,'' Master's thesis, Massachusetts Institute of Technology, 2012.
+
+\bibitem{boutilier1999sequential}
+C.~Boutilier, ``Sequential optimality and coordination in multiagent systems,''
+  in {\em IJCAI}, vol.~99, pp.~478--485, 1999.
+
+\bibitem{proper2009solving}
+S.~Proper and P.~Tadepalli, ``Solving multiagent assignment markov decision
+  processes,'' in {\em Proceedings of The 8th International Conference on
+  Autonomous Agents and Multiagent Systems-Volume 1}, pp.~681--688,
+  International Foundation for Autonomous Agents and Multiagent Systems, 2009.
+
+\bibitem{boutilier1999decision}
+C.~Boutilier, T.~Dean, and S.~Hanks, ``Decision-theoretic planning: Structural
+  assumptions and computational leverage,'' {\em Journal of Artificial
+  Intelligence Research}, vol.~11, no.~1, p.~94, 1999.
+
+\bibitem{bellman1958dynamic}
+R.~Bellman, ``Dynamic programming and stochastic control processes,'' {\em
+  Information and control}, vol.~1, no.~3, pp.~228--239, 1958.
+
+\bibitem{sutton1984temporal}
+R.~S. Sutton, ``Temporal credit assignment in reinforcement learning,'' 1984.
+
+\bibitem{busoni:1}
+L.~Busoniu, R.~Babuska, B.~De~Schutter, and D.~Ernst, {\em Reinforcement
+  learning and dynamic programming using function approximators}, vol.~39.
+\newblock CRC press, 2010.
+
+\bibitem{bertsekas:1}
+D.~P. Bertsekas, D.~P. Bertsekas, D.~P. Bertsekas, and D.~P. Bertsekas, {\em
+  Dynamic programming and optimal control}, vol.~1.
+\newblock Athena Scientific Belmont, MA, 1995.
+
+\bibitem{zhou2015trajectory}
+Y.~Zhou, Q.~Liu, Q.~Fu, and Z.~Zhang, ``Trajectory sampling value iteration:
+  Improved dyna search for mdps,'' in {\em Proceedings of the 2015
+  International Conference on Autonomous Agents and Multiagent Systems},
+  pp.~1685--1686, International Foundation for Autonomous Agents and Multiagent
+  Systems, 2015.
+
+\bibitem{geramifard:1}
+G.~A., ``A tutorial on linear function approximators for dynamic programming
+  and reinforcement learning,'' {\em Foundations and Trends R in Machine
+  Learning}, vol.~6, no.~4, pp.~375--454, 2013.
+
+\bibitem{schaul2015prioritized}
+T.~Schaul, J.~Quan, I.~Antonoglou, and D.~Silver, ``Prioritized experience
+  replay,'' {\em arXiv preprint arXiv:1511.05952}, 2015.
+
+\bibitem{andrychowicz2017hindsight}
+M.~Andrychowicz, D.~Crow, A.~Ray, J.~Schneider, R.~Fong, P.~Welinder,
+  B.~McGrew, J.~Tobin, O.~P. Abbeel, and W.~Zaremba, ``Hindsight experience
+  replay,'' in {\em Advances in Neural Information Processing Systems},
+  pp.~5055--5065, 2017.
+
+\bibitem{kaelbling1996reinforcement}
+L.~P. Kaelbling, M.~L. Littman, and A.~W. Moore, ``Reinforcement learning: A
+  survey,'' {\em Journal of artificial intelligence research}, vol.~4,
+  pp.~237--285, 1996.
+
+\bibitem{li2017deep}
+Y.~Li, ``Deep reinforcement learning: An overview,'' {\em arXiv preprint
+  arXiv:1701.07274}, 2017.
+
+\bibitem{gupta2017cooperative}
+J.~K. Gupta, M.~Egorov, and M.~Kochenderfer, ``Cooperative multi-agent control
+  using deep reinforcement learning,'' in {\em International Conference on
+  Autonomous Agents and Multiagent Systems}, pp.~66--83, Springer, 2017.
+
+\end{thebibliography}

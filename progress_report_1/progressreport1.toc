@@ -1,0 +1,27 @@
+\contentsline {part}{ \bf {\contentsnameToC } }{iii}{Doc-Start}
+\contentsline {section}{\numberline {1}INTRODUCTION}{1}{section.1}
+\contentsline {section}{\numberline {2}TIME PLAN PRESENTED IN THESIS PROPOSAL}{3}{section.2}
+\contentsline {section}{\numberline {3}CONTRIBUTION OF THE STUDIES CONDUCTED DURING THE LAST SIX MONTHS WITHIN THE WHOLE THESIS STUDY}{3}{section.3}
+\contentsline {section}{\numberline {4}EXPLANATION OF THE STUDIES CONDUCTED DURING THE LAST SIX MONTHS IN ACCORDANCE WITH THE TIME PLAN AND THEIR RESULTS}{4}{section.4}
+\contentsline {subsection}{\numberline {4.1}Benchmark Problems}{4}{subsection.4.1}
+\contentsline {subsubsection}{Blocks World Planning Problem}{5}{section*.2}
+\contentsline {subsubsection}{Grid World Planning Problem}{6}{section*.5}
+\contentsline {subsubsection}{Rendezvous Planning Problem}{7}{section*.7}
+\contentsline {subsection}{\numberline {4.2}Overview Of Planning Framework}{8}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Markov Decision Processes (MDPs)}{10}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Multiagent Markov Decision Processes (MMDPs)}{11}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Planning with MDPs}{12}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Dynamic Programming }{12}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Trajectory Based Value Iteration }{14}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}Representations}{14}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}Deep Network}{15}{subsection.4.9}
+\contentsline {subsection}{\numberline {4.10}Training with Backpropagation}{15}{subsection.4.10}
+\contentsline {subsection}{\numberline {4.11}Batch Training}{17}{subsection.4.11}
+\contentsline {subsection}{\numberline {4.12}Experience Replay}{17}{subsection.4.12}
+\contentsline {subsection}{\numberline {4.13}Deep-Q-Networks Structure}{18}{subsection.4.13}
+\contentsline {subsection}{\numberline {4.14}Prioritized Experience Replay}{19}{subsection.4.14}
+\contentsline {subsection}{\numberline {4.15}Comparison of Uniform vs Prioritized Experience Replays}{21}{subsection.4.15}
+\contentsline {section}{\numberline {5}STUDIES DURING THE LAST SIX MONTHS INCLUDED IN TIME PLAN BUT NOT CONDUCTED AND REASONS}{22}{section.5}
+\contentsline {section}{\numberline {6}CHANGES IN THE METHODOLOGY AND THEIR REASONS}{22}{section.6}
+\contentsline {section}{\numberline {7}EXPLANATION OF THE STUDIES PLANNED FOR THE NEXT SIX MONTHS}{22}{section.7}
+\contentsline {section}{\numberline {8}PUBLICATIONS ABOUT THE THESIS SUBJECT BEING PREPARED AND/OR SUBMITTED}{23}{section.8}
