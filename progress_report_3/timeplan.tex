@@ -1,0 +1,61 @@
+\begin{figure}[h]
+\begin{center}
+\begin{ganttchart}[
+vgrid = {*{5}{dotted},*{1}{gray,thick}},
+bar/.append style={rounded corners=6pt},
+bar left shift=.15,
+bar right shift=-.15,
+bar top shift=.2,
+bar height=.05,
+group left shift=0,
+group right shift=0,
+group peaks tip position=0,
+group peaks height=.4,
+hgrid,
+x unit=0.7cm,
+y unit title=.8cm,
+y unit chart=0.6cm,
+milestone/.append style={fill=yellow, rounded corners=0pt, xscale=0.5}, %xscale = y unit/x unit,
+newline shortcut=true,
+bar label node/.append style={align=left},
+time slot format=isodate-yearmonth,
+compress calendar,%
+]{2017-07}{2019-06}
+\ganttset{bar height=0.6}
+\gantttitlecalendar{year, month} \\
+
+\ganttgroup{Preliminary Works}{2017-07}{2017-12} \\
+\ganttbar[bar/.append style={fill=blue}]{Development Of Deep Learning Algorithm}{2017-07}{2017-10} \\
+\ganttbar[bar/.append style={fill=blue}]{Deep-Q-Networks on Benchmark Problems}{2017-10}{2017-12} \\
+\ganttmilestone{Progress Report \#1}{2017-12} \\
+
+\ganttgroup{Multiagent Planning}{2018-01}{2018-08} \\
+\ganttbar[bar/.append style={fill=green}]{Modelling Benchmark Problems}{2018-01}{2018-02}\\
+\ganttbar[bar/.append style={fill=green}]{Design of Planning Framework}{2018-02}{2018-06} \\
+\ganttbar[bar/.append style={fill=green}]{Modelling Persistent Surveillance Problem}{2018-06}{2018-08}\\
+\ganttbar[bar/.append style={fill=green}]{Preparation of Journal Drafts}{2018-07}{2018-08}\\
+\ganttmilestone{Progress Report \#2}{2018-06} \\
+
+\ganttgroup{Decentralized Multiagent Planning}{2018-09}{2019-02} \\
+\ganttbar[bar/.append style={fill=orange}]{Problem Formulisation}{2018-09}{2018-12}\\
+\ganttbar[bar/.append style={fill=orange}]{Design of Dec. Planning Framework}{2019-01}{2019-02} \\
+
+\ganttgroup{Simulation Environment}{2018-04}{2018-10} \\
+\ganttbar[bar/.append style={fill=cyan}]{Modelling Autonomous Vehicles}{2018-04}{2018-05}\\
+\ganttbar[bar/.append style={fill=cyan}]{Preparing 3D UAV Simulation Engine}{2018-05}{2018-09} \\
+\ganttbar[bar/.append style={fill=cyan}]{Applying Framework to Simulation}{2018-06}{2018-10} \\
+\ganttmilestone{Progress Report \#3}{2018-12} \\
+
+\ganttgroup{Thesis Completion}{2019-01}{2019-06} \\
+\ganttbar[bar/.append style={fill=magenta}]{Preparation of Journal Drafts}{2019-01}{2019-02}\\
+\ganttbar[bar/.append style={fill=magenta}]{Thesis Writing}{2019-02}{2019-06} \\
+\ganttmilestone{Thesis Defence}{2019-06}
+
+\end{ganttchart}
+
+\end{center}
+\caption{Time Plan \label{fig:timeplan}}
+\end{figure}
+
+
+

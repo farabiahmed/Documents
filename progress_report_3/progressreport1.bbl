@@ -1,0 +1,129 @@
+\begin{thebibliography}{10}
+
+\bibitem{rencao11}
+W.~Ren and Y.~Cao, {\em Distributed Coordination of Multi-agent Networks},
+  ch.~2.
+\newblock London: Springer, 2011.
+
+\bibitem{glavic06}
+M.~Glavic, ``Agents and multi-agent systems: A short introduction for power
+  engineers,'' tech. rep., University of Liege Electrical Engineering and
+  Computer Science Department, Belgium, 2006.
+
+\bibitem{clement04}
+B.~Clement, ``Multi-agent planning.'' Artificial Intelligence Group, Jet
+  Propulsion Laboratory, California, 2004.
+
+\bibitem{stone00}
+P.~Stone and M.~Veloso, ``Multiagent systems: A survey from a machine learning
+  perspective,'' {\em Autonomous Robotics}, vol.~8, no.~3, p.~345–383, 2000.
+
+\bibitem{tomlin98}
+C.~Tomlin, G.~J. Pappas, and S.~Sastry, ``Conflict resolution for air traffic
+  management: A study in multiagent hybrid systems,'' {\em IEEE Transactions on
+  automatic control}, vol.~43, no.~4, pp.~509--521, 1998.
+
+\bibitem{swaminathan98}
+J.~M. Swaminathan, S.~F. Smith, and N.~M. Sadeh, ``Modeling supply chain
+  dynamics: A multiagent approach,'' {\em Decision sciences}, vol.~29, no.~3,
+  pp.~607--632, 1998.
+
+\bibitem{silver2016mastering}
+D.~Silver, A.~Huang, C.~J. Maddison, A.~Guez, L.~Sifre, G.~Van Den~Driessche,
+  J.~Schrittwieser, I.~Antonoglou, V.~Panneershelvam, M.~Lanctot, {\em et~al.},
+  ``Mastering the game of go with deep neural networks and tree search,'' {\em
+  Nature}, vol.~529, no.~7587, pp.~484--489, 2016.
+
+\bibitem{zhang2016learning}
+M.~Zhang, Z.~McCarthy, C.~Finn, S.~Levine, and P.~Abbeel, ``Learning deep
+  neural network policies with continuous memory states,'' in {\em Robotics and
+  Automation (ICRA), 2016 IEEE International Conference on}, pp.~520--527,
+  IEEE, 2016.
+
+\bibitem{mnih-dqn-2015}
+V.~Mnih, K.~Kavukcuoglu, D.~Silver, A.~A. Rusu, J.~Veness, M.~G. Bellemare,
+  A.~Graves, M.~Riedmiller, A.~K. Fidjeland, G.~Ostrovski, S.~Petersen,
+  C.~Beattie, A.~Sadik, I.~Antonoglou, H.~King, D.~Kumaran, D.~Wierstra,
+  S.~Legg, and D.~Hassabis, ``Human-level control through deep reinforcement
+  learning,'' {\em Nature}, vol.~518, pp.~529--533, 02 2015.
+
+\bibitem{redding2011approximate}
+J.~D. Redding, {\em Approximate multi-agent planning in dynamic and uncertain
+  environments}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 2011.
+
+\bibitem{hausknecht2015deep}
+M.~Hausknecht and P.~Stone, ``Deep recurrent q-learning for partially
+  observable mdps,'' {\em arXiv preprint arXiv:1507.06527}, 2015.
+
+\bibitem{tampuu2017multiagent}
+A.~Tampuu, T.~Matiisen, D.~Kodelja, I.~Kuzovkin, K.~Korjus, J.~Aru, J.~Aru, and
+  R.~Vicente, ``Multiagent cooperation and competition with deep reinforcement
+  learning,'' {\em PloS one}, vol.~12, no.~4, p.~e0172395, 2017.
+
+\bibitem{Vijaymohan2002}
+K.~Vijaymohan, {\em Actor-critic algorithms}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 2002.
+
+\bibitem{grondman2012survey}
+I.~Grondman, L.~Busoniu, G.~A. Lopes, and R.~Babuska, ``A survey of
+  actor-critic reinforcement learning: Standard and natural policy gradients,''
+  {\em IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications
+  and Reviews)}, vol.~42, no.~6, pp.~1291--1307, 2012.
+
+\bibitem{mnih2016asynchronous}
+V.~Mnih, A.~P. Badia, M.~Mirza, A.~Graves, T.~Lillicrap, T.~Harley, D.~Silver,
+  and K.~Kavukcuoglu, ``Asynchronous methods for deep reinforcement learning,''
+  in {\em International Conference on Machine Learning}, pp.~1928--1937, 2016.
+
+\bibitem{amato13}
+C.~Amato, G.~Chowdhary, A.~Geramifard, N.~K. Ure, and M.~J. Kochenderfer,
+  ``Decentralized control of partially observable markov decision processes,''
+  in {\em Decision and Control (CDC), 2013 IEEE 52nd Annual Conference on},
+  pp.~2398--2405, IEEE, 2013.
+
+\bibitem{chen2016decentralized}
+Y.~F. Chen, M.~Liu, M.~Everett, and J.~P. How, ``Decentralized
+  non-communicating multiagent collision avoidance with deep reinforcement
+  learning,'' {\em arXiv preprint arXiv:1609.07845}, 2016.
+
+\bibitem{lillicrap2015continuous}
+T.~P. Lillicrap, J.~J. Hunt, A.~Pritzel, N.~Heess, T.~Erez, Y.~Tassa,
+  D.~Silver, and D.~Wierstra, ``Continuous control with deep reinforcement
+  learning,'' {\em arXiv preprint arXiv:1509.02971}, 2015.
+
+\bibitem{konda2000actor}
+V.~R. Konda and J.~N. Tsitsiklis, ``Actor-critic algorithms,'' in {\em Advances
+  in neural information processing systems}, pp.~1008--1014, 2000.
+
+\bibitem{silver2014deterministic}
+D.~Silver, G.~Lever, N.~Heess, T.~Degris, D.~Wierstra, and M.~Riedmiller,
+  ``Deterministic policy gradient algorithms,'' in {\em ICML}, 2014.
+
+\bibitem{sutton2000policy}
+R.~S. Sutton, D.~A. McAllester, S.~P. Singh, and Y.~Mansour, ``Policy gradient
+  methods for reinforcement learning with function approximation,'' in {\em
+  Advances in neural information processing systems}, pp.~1057--1063, 2000.
+
+\bibitem{rizvi2017optimized}
+S.~T.~H. Rizvi, G.~Cabodi, and G.~Francini, ``Optimized deep neural networks
+  for real-time object classification on embedded gpus,'' {\em Applied
+  Sciences}, vol.~7, no.~8, p.~826, 2017.
+
+\bibitem{babaeizadeh2016ga3c}
+M.~Babaeizadeh, I.~Frosio, S.~Tyree, J.~Clemons, and J.~Kautz, ``Ga3c:
+  Gpu-based a3c for deep reinforcement learning,'' 11 2016.
+
+\bibitem{stooke2018accelerated}
+A.~Stooke and P.~Abbeel, ``Accelerated methods for deep reinforcement
+  learning,'' {\em arXiv preprint arXiv:1803.02811}, 2018.
+
+\bibitem{babaeizadeh2016reinforcement}
+M.~Babaeizadeh, I.~Frosio, S.~Tyree, J.~Clemons, and J.~Kautz, ``Reinforcement
+  learning through asynchronous advantage actor-critic on a gpu,'' 2016.
+
+\bibitem{gasicdrl}
+M.~Gasic, ``Deep reinforcement learning.'' Cambridge University Engineering
+  Department, University Lecture, 2018.
+
+\end{thebibliography}

@@ -1,0 +1,17 @@
+\contentsline {part}{ \bf {\contentsnameToC } }{iii}{Doc-Start}
+\contentsline {section}{\numberline {1}INTRODUCTION}{1}{section.1}
+\contentsline {section}{\numberline {2}TIME PLAN PRESENTED IN THESIS PROPOSAL}{3}{section.2}
+\contentsline {section}{\numberline {3}CONTRIBUTION OF THE STUDIES CONDUCTED DURING THE LAST SIX MONTHS WITHIN THE WHOLE THESIS STUDY}{4}{section.3}
+\contentsline {section}{\numberline {4}EXPLANATION OF THE STUDIES CONDUCTED DURING THE LAST SIX MONTHS IN ACCORDANCE WITH THE TIME PLAN AND THEIR RESULTS}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Actor-Critic Reinforcement Learning}{5}{subsection.4.1}
+\contentsline {subsubsection}{Tabular Based Actor-Critic}{6}{section*.3}
+\contentsline {subsubsection}{Deep Neural Network Based Actor-Critic}{7}{section*.5}
+\contentsline {subsection}{\numberline {4.2}Hybrid CPU/GPU Computation}{10}{subsection.4.2}
+\contentsline {subsubsection}{GPU/CPU Utilization}{10}{section*.8}
+\contentsline {subsubsection}{Building Hybrid System}{11}{section*.11}
+\contentsline {subsection}{\numberline {4.3}Grid Search Implementation}{12}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Simulation Results}{13}{subsection.4.4}
+\contentsline {section}{\numberline {5}STUDIES DURING THE LAST SIX MONTHS INCLUDED IN TIME PLAN BUT NOT CONDUCTED AND REASONS}{15}{section.5}
+\contentsline {section}{\numberline {6}CHANGES IN THE METHODOLOGY AND THEIR REASONS}{15}{section.6}
+\contentsline {section}{\numberline {7}EXPLANATION OF THE STUDIES PLANNED FOR THE NEXT SIX MONTHS}{16}{section.7}
+\contentsline {section}{\numberline {8}PUBLICATIONS ABOUT THE THESIS SUBJECT BEING PREPARED AND/OR SUBMITTED}{16}{section.8}
